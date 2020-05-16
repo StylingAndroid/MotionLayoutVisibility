@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotionLayout: Visibility</string>
+    <string name="sample_text">This is some text to play with</string>
+    <string name="toggle_text">Toggle Text</string>
+</resources>
